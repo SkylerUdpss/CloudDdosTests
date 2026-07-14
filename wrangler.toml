@@ -2,3 +2,5 @@
 name = 'cloudddostests'
 main = "index.js"
 compatibility_date = "2026-07-14"
+[observability]
+enabled = false
